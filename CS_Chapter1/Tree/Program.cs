@@ -10,6 +10,14 @@ namespace Tree
     {
         static void Main(string[] args)
         {
+            for (int i = 0; i <= 900; i++)
+            {
+                do
+                {
+                    Console.WriteLine(i + " ");
+                }
+                while(i % 2 = 0);
+            }
         }
     }
 }
