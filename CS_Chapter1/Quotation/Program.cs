@@ -10,6 +10,7 @@ namespace Quotation
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\"Death is not the greatest loss in life. The greatest loss is what dies inside us while we live.\"\n-Norman Cousins");
         }
     }
 }
